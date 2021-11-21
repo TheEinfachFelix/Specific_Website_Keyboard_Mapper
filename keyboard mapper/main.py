@@ -1,4 +1,5 @@
 #you have to install selenium and keyboard via pip to run itfrom selenium import webdriver
+from selenium import webdriver
 import time
 import keyboard  
 
